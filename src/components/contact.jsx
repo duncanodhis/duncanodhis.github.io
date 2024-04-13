@@ -153,9 +153,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+            &copy; 2024 Duncan Abonyo. Design by{" "}
+            <a href="https://duncanodhis.github.io/" rel="nofollow">
+              Duncan's Creative Corner LLC
             </a>
           </p>
         </div>

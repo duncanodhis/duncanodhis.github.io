@@ -1,184 +1,178 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Duncan's  Creative Corner LLC",
+    "paragraph": "Duncan's Creative Corner LLC is a place where innovative ideas thrive. We are passionate about creating solutions that push the boundaries of technology. Our team is dedicated to excellence and committed to delivering cutting-edge products and services."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Duncan's Creative Corner LLC, we leverage cutting-edge technologies to build innovative solutions for various industries. Our expertise includes artificial intelligence, bot development, natural language processing, computer vision, enterprise resource planning, customer relationship management, financial analytics, recommended systems, sentimental analysis, large language models, and speech recognition. We are committed to delivering high-quality products and services that exceed our clients' expectations.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise in artificial intelligence",
+      "Innovative solutions using cutting-edge technologies",
+      "Dedicated team passionate about technology",
+      "Commitment to exceeding client expectations"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Advanced capabilities in bot development",
+      "Specialization in natural language processing",
+      "Experience in computer vision applications",
+      "Proficiency in enterprise resource planning"
     ]
+  }
+,
+"Gallery": [
+  {
+    "title": "E-Commerce Telegram Bot",
+    "largeImage": "img/portfolio/01-large.jpg",
+    "smallImage": "img/portfolio/01-small.jpg"
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+  {
+    "title": "Web Scraping Website",
+    "largeImage": "img/portfolio/02-large.jpg",
+    "smallImage": "img/portfolio/02-small.jpg"
   },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+  {
+    "title": "Computer Vision System",
+    "largeImage": "img/portfolio/03-large.jpg",
+    "smallImage": "img/portfolio/03-small.jpg"
+  },
+  {
+    "title": "Recommended Systems",
+    "largeImage": "img/portfolio/04-large.jpg",
+    "smallImage": "img/portfolio/04-small.jpg"
+  },
+  {
+    "title": "Sentiment Analysis Application",
+    "largeImage": "img/portfolio/05-large.jpg",
+    "smallImage": "img/portfolio/05-small.jpg"
+  },
+  {
+    "title": "Financial Analysis Tool",
+    "largeImage": "img/portfolio/06-large.jpg",
+    "smallImage": "img/portfolio/06-small.jpg"
+  },
+  {
+    "title": "Speech Recognition System",
+    "largeImage": "img/portfolio/07-large.jpg",
+    "smallImage": "img/portfolio/07-small.jpg"
+  },
+  {
+    "title": "Chainlit - Large Language Model",
+    "largeImage": "img/portfolio/08-large.jpg",
+    "smallImage": "img/portfolio/08-small.jpg"
+  },
+  {
+    "title": "Odoo ERP Solution",
+    "largeImage": "img/portfolio/09-large.jpg",
+    "smallImage": "img/portfolio/09-small.jpg"
+  },
+  {
+    "title": "Zoho CRM Integration",
+    "largeImage": "img/portfolio/10-large.jpg",
+    "smallImage": "img/portfolio/10-small.jpg"
+  }
+], 
+"Services": [
+  {
+    "icon": "fa fa-python",
+    "name": "Bot Development",
+    "text": "Specializing in creating AI-powered bots for various applications, including e-commerce, customer service, and automation."
+  },
+  {
+    "icon": "fa fa-file-code-o",
+    "name": "AI Applications",
+    "text": "Building cutting-edge AI applications for tasks such as recommended systems, sentiment analysis, time series analysis, and speech recognition."
+  },
+  {
+    "icon": "fa fa-mobile",
+    "name": "Mobile App Development",
+    "text": "Designing and developing innovative mobile apps for both iOS and Android platforms, tailored to meet your specific requirements."
+  },
+  {
+    "icon": "fa fa-wordpress",
+    "name": "WordPress Development",
+    "text": "Crafting elegant and responsive WordPress websites, with custom themes and plugins, to enhance your online presence and user experience."
+  },
+  {
+    "icon": "fa fa-desktop",
+    "name": "Web Development",
+    "text": "Creating dynamic and interactive web applications using modern technologies like JavaScript, Kotlin, Java, and Flutter."
+  },
+  {
+    "icon": "fa fa-database",
+    "name": "ERP Solutions",
+    "text": "Implementing comprehensive Enterprise Resource Planning (ERP) solutions like Odoo, tailored to streamline your business processes."
+  }
+], 
+"Testimonials": [
+  {
+    "img": "img/testimonials/01.jpg",
+    "text": "\"Working with Duncan was a game-changer for my business. His expertise in AI development helped me automate tasks and improve efficiency.\"",
+    "name": "Sarah Smith"
+  },
+  {
+    "img": "img/testimonials/02.jpg",
+    "text": "\"Duncan's dedication and professionalism are unparalleled. He delivered exceptional results on our project, exceeding all expectations.\"",
+    "name": "John Smith"
+  },
+  {
+    "img": "img/testimonials/03.jpg",
+    "text": "\"I've hired Duncan for multiple projects, and each time he has impressed me with his creativity and technical skills. Highly recommended!\"",
+    "name": "Catherine Johnson"
+  },
+  {
+    "img": "img/testimonials/04.jpg",
+    "text": "\"Working with Duncan was a pleasure from start to finish. He communicated effectively, met deadlines, and delivered high-quality work.\"",
+    "name": "Michael Brown"
+  },
+  {
+    "img": "img/testimonials/05.jpg",
+    "text": "\"Duncan's expertise in bot development helped me launch my Telegram bot quickly and efficiently. I'm grateful for his professionalism and support.\"",
+    "name": "Julia Thompson"
+  },
+  {
+    "img": "img/testimonials/06.jpg",
+    "text": "\"I've worked with many developers in the past, but Duncan stands out for his attention to detail and commitment to excellence. Highly recommended!\"",
+    "name": "Brian Wilson"
+  }
+]
+,
+"Team": [
+  {
+    "img": "img/team/01.jpg",
+    "name": "Duncan Abonyo",
+    "job": "Founder & Freelancer"
+  }
+]
+,
+"Contact": {
+  "address": "Nairobi, Kenya, along Kenyatta Road",
+  "phone": "+254791189078",
+  "email": "duncanodhiamboabonyo@gmail.com",
+  "twitter": "https://twitter.com/DuncanAbon",
+  "youtube": "www.youtube.com/@duncancreativecorner"
+}
+,
+"Features": [
+  {
+    "icon": "fa fa-comments-o",
+    "title": "Bot Development",
+    "text": "Specializing in creating AI-powered chatbots for various platforms including e-commerce, social media, and customer support."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "title": "AI Applications",
+    "text": "Developing custom artificial intelligence solutions for tasks such as sentiment analysis, recommendation systems, and speech recognition."
+  },
+  {
+    "icon": "fa fa-group",
+    "title": "Mobile App Development",
+    "text": "Crafting high-quality mobile applications for both iOS and Android platforms, tailored to meet specific client needs and preferences."
+  },
+  {
+    "icon": "fa fa-magic",
+    "title": "Web Development",
+    "text": "Creating responsive and visually appealing websites, utilizing the latest web technologies and frameworks for an enhanced user experience."
+  }
+]
+
 }
